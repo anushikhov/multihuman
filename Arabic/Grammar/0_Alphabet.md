@@ -20,13 +20,13 @@ The original Abjadi order derives from that used by the Phoenician alphabet and,
 
 Letters are also assigned numerical values (abjad numerals) for purposes of numerology, as is done in Hebrew gematria and Greek isopsephy.   
 
-Letters in the Hija'i order are not considered to have numerical values.   
-
-ذ    -    da   
-ذو   -    zuu
-د ي  -    dii
-وا    -   wii	
-ي    -    ya
+Letters in the Hija'i order are not considered to have numerical values.    
+    
+ذ    -    da     
+ذو   -    zuu     
+د ي  -    dii    
+وا    -   wii	  
+ي    -    ya    
 
 
 
