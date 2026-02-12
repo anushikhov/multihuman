@@ -32,3 +32,13 @@ https://ling-app.com/blog/georgian-alphabet/
 ა ა ა   
 ა ა   
 ა  
+
+
+  
+ბ    
+ბბ   
+ბბბ   
+ბბბბ                                                բ    ֊  բան, բանի     
+ბბბ    
+ბბ    
+ბ    
